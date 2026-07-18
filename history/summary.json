@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 296,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 406,
+    "timeDay": 406,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2452,
-    "timeDay": 2452,
-    "timeWeek": 2452,
-    "timeMonth": 2452,
-    "timeYear": 2452,
+    "time": 1386,
+    "timeDay": 1386,
+    "timeWeek": 1386,
+    "timeMonth": 1386,
+    "timeYear": 1386,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-atelier.web.app.ico",
     "slug": "demo-atelier",
     "status": "down",
-    "uptime": "26.09%",
-    "uptimeDay": "26.09%",
-    "uptimeWeek": "26.09%",
-    "uptimeMonth": "26.09%",
-    "uptimeYear": "26.09%",
-    "time": 24,
-    "timeDay": 24,
-    "timeWeek": 24,
-    "timeMonth": 24,
-    "timeYear": 24,
+    "uptime": "5.06%",
+    "uptimeDay": "5.06%",
+    "uptimeWeek": "5.06%",
+    "uptimeMonth": "5.06%",
+    "uptimeYear": "5.06%",
+    "time": 26,
+    "timeDay": 26,
+    "timeWeek": 26,
+    "timeMonth": 26,
+    "timeYear": 26,
     "dailyMinutesDown": {
-      "2026-07-18": 1
+      "2026-07-18": 4
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-monolith.web.app.ico",
     "slug": "demo-monolith",
     "status": "down",
-    "uptime": "32.25%",
-    "uptimeDay": "32.25%",
-    "uptimeWeek": "32.25%",
-    "uptimeMonth": "32.25%",
-    "uptimeYear": "32.25%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
+    "uptime": "5.21%",
+    "uptimeDay": "5.21%",
+    "uptimeWeek": "5.21%",
+    "uptimeMonth": "5.21%",
+    "uptimeYear": "5.21%",
+    "time": 25,
+    "timeDay": 25,
+    "timeWeek": 25,
+    "timeMonth": 25,
+    "timeYear": 25,
     "dailyMinutesDown": {
-      "2026-07-18": 0
+      "2026-07-18": 4
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-papier.web.app.ico",
     "slug": "demo-papier",
     "status": "down",
-    "uptime": "54.85%",
-    "uptimeDay": "54.85%",
-    "uptimeWeek": "54.85%",
-    "uptimeMonth": "54.85%",
-    "uptimeYear": "54.85%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
+    "uptime": "5.39%",
+    "uptimeDay": "5.39%",
+    "uptimeWeek": "5.39%",
+    "uptimeMonth": "5.39%",
+    "uptimeYear": "5.39%",
+    "time": 26,
+    "timeDay": 26,
+    "timeWeek": 26,
+    "timeMonth": 26,
+    "timeYear": 26,
     "dailyMinutesDown": {
-      "2026-07-18": 0
+      "2026-07-18": 3
     }
   }
 ]
