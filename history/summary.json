@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 406,
-    "timeWeek": 406,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {}
   },
   {
@@ -28,71 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1386,
-    "timeDay": 1386,
-    "timeWeek": 1386,
-    "timeMonth": 1386,
-    "timeYear": 1386,
+    "time": 930,
+    "timeDay": 930,
+    "timeWeek": 930,
+    "timeMonth": 930,
+    "timeYear": 930,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Démo — Atelier",
-    "url": "https://pfy-demo-atelier.web.app/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-atelier.web.app.ico",
-    "slug": "demo-atelier",
-    "status": "down",
-    "uptime": "5.06%",
-    "uptimeDay": "5.06%",
-    "uptimeWeek": "5.06%",
-    "uptimeMonth": "5.06%",
-    "uptimeYear": "5.06%",
-    "time": 26,
-    "timeDay": 26,
-    "timeWeek": 26,
-    "timeMonth": 26,
-    "timeYear": 26,
-    "dailyMinutesDown": {
-      "2026-07-18": 4
-    }
-  },
-  {
-    "name": "Démo — Monolith",
-    "url": "https://pfy-demo-monolith.web.app/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-monolith.web.app.ico",
-    "slug": "demo-monolith",
-    "status": "down",
-    "uptime": "5.21%",
-    "uptimeDay": "5.21%",
-    "uptimeWeek": "5.21%",
-    "uptimeMonth": "5.21%",
-    "uptimeYear": "5.21%",
-    "time": 25,
-    "timeDay": 25,
-    "timeWeek": 25,
-    "timeMonth": 25,
-    "timeYear": 25,
-    "dailyMinutesDown": {
-      "2026-07-18": 4
-    }
-  },
-  {
-    "name": "Démo — Papier",
-    "url": "https://pfy-demo-papier.web.app/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/pfy-demo-papier.web.app.ico",
-    "slug": "demo-papier",
-    "status": "down",
-    "uptime": "5.39%",
-    "uptimeDay": "5.39%",
-    "uptimeWeek": "5.39%",
-    "uptimeMonth": "5.39%",
-    "uptimeYear": "5.39%",
-    "time": 26,
-    "timeDay": 26,
-    "timeWeek": 26,
-    "timeMonth": 26,
-    "timeYear": 26,
-    "dailyMinutesDown": {
-      "2026-07-18": 3
-    }
   }
 ]
