@@ -8,6 +8,12 @@ sites:
     url: https://pfy-api-m7w3i5eojq-ew.a.run.app/api/v1/health
   - name: Vitrine
     url: https://portforyou.web.app
+  - name: Démo — Atelier
+    url: https://pfy-demo-atelier.web.app/api/v1/health
+  - name: Démo — Monolith
+    url: https://pfy-demo-monolith.web.app/api/v1/health
+  - name: Démo — Papier
+    url: https://pfy-demo-papier.web.app/api/v1/health
 
 status-website:
   # Pas de domaine custom → Project Page servie sous /pfy-upptime.
