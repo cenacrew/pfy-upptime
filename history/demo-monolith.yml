@@ -1,7 +1,7 @@
 url: https://pfy-demo-monolith.web.app/api/v1/health
-status: up
-code: 200
-responseTime: 4092
-lastUpdated: 2026-09-20T00:29:00.543Z
+status: down
+code: 404
+responseTime: 33
+lastUpdated: 2026-09-20T16:16:45.865Z
 startTime: 2026-07-18T16:53:24.946Z
 generator: Upptime <https://github.com/upptime/upptime>
