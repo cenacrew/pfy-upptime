@@ -1,7 +1,7 @@
 url: https://pfy-demo-papier.web.app/api/v1/health
-status: up
-code: 200
-responseTime: 3425
-lastUpdated: 2026-09-20T00:29:03.995Z
+status: down
+code: 404
+responseTime: 29
+lastUpdated: 2026-09-20T16:16:59.405Z
 startTime: 2026-07-18T16:53:27.171Z
 generator: Upptime <https://github.com/upptime/upptime>
